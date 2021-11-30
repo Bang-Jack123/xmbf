@@ -3,5 +3,5 @@ import os,sys
 banner = ( '''
 {•} author khamdihi x crack
 [•] pw.   : Dihi ''')
-prinr(banner)
+print(banner)
 
